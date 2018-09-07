@@ -11,11 +11,13 @@ x = 3.2
 
 
 If you add a float and an int together, it results in a float
+
 ```python
 x = 3.2
 y = 3
 z = x+y
 ```
+
 This will give you a new variable `z` which is equal to 6.2
 
 Calling the function `float(number)` will turn an integer into a number that can contain decimal places. 

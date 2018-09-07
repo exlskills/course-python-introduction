@@ -10,9 +10,11 @@ x = 3
 These are often called just integers or ints, are positive or negative whole numbers with no decimal point.
 
 You can add integers together which will result in another integer.
+
 ```python
 x = 3
 y = 6
 z = x+y
 ```
+
 This will give you a new variable `z` which is equal to 9
