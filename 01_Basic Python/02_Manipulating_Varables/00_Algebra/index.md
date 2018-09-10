@@ -1,4 +1,4 @@
-## Alegbra using python
+## Algebra using python
 
 Just like a calculator, python works well with numbers.  You can add variables together if they are the same type!
 
@@ -14,6 +14,10 @@ y = 2
 print(x + y)
 
 ```
+
+- You can run this in python and it will print out 4 since 2 + 2 = 4
+
+
 There are a multitude of other mathematical functions that you can use.  
 
 - `*` = Multiplication
