@@ -5,7 +5,7 @@ course: intro_to_python
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/course-intro-to-python.jpg
 language: en
 est_minutes: 1740
-primary_topic: Java
+primary_topic: Python
 repo_url: https://github.com/exlskills/course-intro-to-python
 topics:
   - Python
