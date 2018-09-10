@@ -1,7 +1,7 @@
 >>What **methods** can we use on strings? <<
 
 ( ) `.split()`
-(x) `.upper()`
+( ) `.upper()`
 ( ) `.lower()`
 (x) All the Above
 

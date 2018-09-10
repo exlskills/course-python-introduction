@@ -1,4 +1,4 @@
-## Algebra using python
+# Algebra using python
 
 Just like a calculator, python works well with numbers.  You can add variables together if they are the same type!
 
