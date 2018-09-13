@@ -4,6 +4,12 @@ Below is the code for a function that adds all the numbers in a list and then se
 
 ```python
 def sum_numbers(lst):
+  """
+  This is a docstring, and it describes your function
+  INPUT: lst is a list that we want to sum across
+  OUTPUT: s is a scalar that is the sum of the list
+
+  """
   s = 0
   for number in lst:
     s += number
@@ -29,6 +35,8 @@ Finally, at the end we have the statement `return s`.  This is our return statem
 Once you have built the function, you can easily call it using many different lists.  
 
 To call the function, you must first define it, and then you can access it by running `sum_numbers(list)` in your python script
+
+Also, don't forget to add your docstring so that someone else who wants to use your function can figure out what is going on!
 
 ### Challenge:
 - What does **sum_numbers** return for the list `[1,1,1,1,15,2,1,2,3]`?
