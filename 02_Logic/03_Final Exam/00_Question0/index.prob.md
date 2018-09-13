@@ -1,6 +1,6 @@
->> Question Goes Here <<
-() Answer 1
-() Answer 2
-() Answer 3
-() Answer 4
-|| Hint Goes Here ||
+>> What does iterable refer to? <<
+() A number
+() Many numbers in a list
+() A string with multiple pieces of text
+(x) Any piece of data that you can use a for loop to go through
+|| What does it mean to iterate? ||

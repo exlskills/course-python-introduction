@@ -1,6 +1,6 @@
->> Question Goes Here <<
-() Answer 1
-() Answer 2
-() Answer 3
-() Answer 4
-|| Hint Goes Here ||
+>> What will this code return? ` 3 < 4 ` <<
+(x) True
+() False
+() None
+() Cat
+|| Is 3 less than 4? ||
