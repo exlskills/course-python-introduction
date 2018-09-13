@@ -16,7 +16,7 @@ Python divides the operators in the following groups:
 
 
 - Since we already looked at the Arithmetic Operators in the previous lectures, I will gloss over them here
- 
+
 Operator|Name|Example
 |-|-|-|
 |+|Addition|x + y|
