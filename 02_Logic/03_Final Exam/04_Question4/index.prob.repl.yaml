@@ -1,0 +1,11 @@
+api_version: 1
+environment: python_3_6_default_free
+src_path: code_input.prob.repl/src
+test_path: code_input.prob.repl/test
+tmpl_path: code_input.prob.repl/tmpl
+tests:
+   junit:
+       - "#cd 04_Question4/code_input.prob.repl/"
+       - "python test/divis_by_2_test.py"
+display:
+   height: 500px
