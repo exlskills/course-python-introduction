@@ -1,6 +1,6 @@
->> Question Goes Here <<
-() Answer 1
-() Answer 2
-() Answer 3
-() Answer 4
-|| Hint Goes Here ||
+>> Why do we use functions <<
+(x) Functions help structure our code and make it more readable with complex manipulations
+() Functions are a good way to save memory
+() Functions make code run faster
+() Functions are useful to reduce battery usage
+|| Functions are a great way to structure code!  ||

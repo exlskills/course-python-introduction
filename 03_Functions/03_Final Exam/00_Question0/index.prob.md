@@ -1,6 +1,6 @@
->> Question Goes Here <<
-() Answer 1
-() Answer 2
-() Answer 3
-() Answer 4
-|| Hint Goes Here ||
+>> What is the correct way to define a function? <<
+(x) `def function_name(arguments):`
+()  `def function_name(arguments)`
+()  `function_name(arguments):`
+()  `def function_name:`
+|| Don't forget the colon! ||
