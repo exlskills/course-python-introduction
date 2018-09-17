@@ -1,4 +1,4 @@
-# Advanced Functions 1
+# Advanced Functions I
 
 Within a function, we can do much more complicated processes and use this to minimize the number of lines of code that we are using.  For example, if we want to count the number characters in a string, we could use the following code:
 
