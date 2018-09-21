@@ -1,6 +1,13 @@
->> Question Goes Here <<
-() Answer 1
-() Answer 2
-() Answer 3
-() Answer 4
-|| Hint Goes Here ||
+>> What type of data structure does the following code create?
+
+```python
+ struct = (1,2,3)
+
+```
+ <<
+
+() dictionary
+(x) tuple
+() list
+() set
+|| Check out the lectures! ||
