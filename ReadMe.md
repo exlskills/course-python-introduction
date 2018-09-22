@@ -1,4 +1,4 @@
-# Read Me
+# EXLskills Python Introduction Course
 
 This repository contains the first introductory class for python for EXLskills
 
