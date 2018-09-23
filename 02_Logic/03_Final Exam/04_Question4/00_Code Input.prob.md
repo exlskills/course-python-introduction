@@ -1,4 +1,4 @@
->> Write a function that sums the numbers in a list but **only** if they are divisible by 2 <<
+>> Write a function that sums the numbers in a list but **only** if they are divisible by 2 
 ```python
 list_1 = [1,2,3,4,5,6]
 list_2 = [2,4,6,8]
@@ -15,6 +15,8 @@ For example, given:
 
 
 <<
- = #!exl::repl('index.prob.repl.yaml')
 
- || Go check out the previous lectures! ||
+
+= #!exl::repl('index.prob.repl.yaml')
+
+|| Go check out the previous lectures! ||
