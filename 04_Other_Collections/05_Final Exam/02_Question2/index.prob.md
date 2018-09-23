@@ -6,8 +6,8 @@
 ```
  <<
 
-() dictionary
-(x) tuple
+(x) dictionary
+() tuple
 () list
 () set
 || Check out the lectures! ||
