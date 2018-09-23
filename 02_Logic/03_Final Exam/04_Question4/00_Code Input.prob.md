@@ -15,6 +15,8 @@ For example, given:
 
 
 <<
- = #!exl::repl('index.prob.repl.yaml')
 
- || Go check out the previous lectures! ||
+
+= #!exl::repl('index.prob.repl.yaml')
+
+|| Go check out the previous lectures! ||
