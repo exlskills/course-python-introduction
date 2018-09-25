@@ -1,6 +1,6 @@
->> Question Goes Here <<
-() Answer 1
-() Answer 2
-() Answer 3
-() Answer 4
-|| Hint Goes Here ||
+>> What does the reversed method do?<<
+() Realigns a list
+(x) Reverses a list
+() Creates a new list
+() Turns a list into a set
+|| Hmmm... ||

@@ -1,4 +1,4 @@
-# Advanced Functions
+# Advanced Functions & Problem Solving
 
 There will be multiple times when you encounter a hard problem that you need to solve.  In this basic course, I am going to outline the skill - solving process that I follow to get through these more difficult problems.  
 
@@ -118,4 +118,3 @@ def reverse_number(number):
         reversed_number = int(''.join(reversed(str(n))))
     return reversed_number
     ```
-    
