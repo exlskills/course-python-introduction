@@ -32,4 +32,4 @@ The format for this course is as follows:
 
 **Final Exam still need to be written**
 
-**Live Coding exerices still need to be implimented**
+**Live Coding exercise still need to be implemented**
