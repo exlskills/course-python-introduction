@@ -30,6 +30,6 @@ The format for this course is as follows:
 6. Final Exam
 
 
-**5.1, Chapter 5 Exam, and Final Exam still need to be written**
+**Final Exam still need to be written**
 
 **Live Coding exerices still need to be implimented**
