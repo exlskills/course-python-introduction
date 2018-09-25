@@ -1,8 +1,8 @@
->>What **methods** can we use on strings? <<
+>>What type of variables can we hold in a list?? <<
 
 ( ) Strings
 ( ) Floats
 ( ) Integers
 (x) All the Above
 
-||What types of Variables could we put into a list?||
+||Are there any we cannot put into a list?||
