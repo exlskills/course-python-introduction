@@ -1,4 +1,4 @@
-###Integers
+### Integers
 In python an integer refers to a number that is does not have any decimal places.  Unlike other coding languages to initialize an integer, you just set a variable equal to a number that does not have a decimal.
 
 ```python
