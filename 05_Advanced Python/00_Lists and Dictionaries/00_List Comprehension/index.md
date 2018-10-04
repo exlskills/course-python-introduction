@@ -1,4 +1,4 @@
-# Advanced Python
+### Advanced Python
 
 We are getting very close to finishing our intro to python course, but there are a couple of interesting applications that you will come across that I will introduce here.  
 
