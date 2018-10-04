@@ -1,4 +1,4 @@
-# If Statements in Python
+### Python Logic Statements
 
 Just like in life, you can use a computer to make basic `if` statements.  This implies that `if` something meets a certain condition (based on what we learned with `Operators`) you can get the code to execute different code.  
 

@@ -1,4 +1,4 @@
-## For loops with logic
+### For loops with logic
 We have already discussed iterables and logic statements, and even had one example with both in it. Now are are going to take a closer look at this and see how we can put this together in a stronger fashion.
 
 Recall:

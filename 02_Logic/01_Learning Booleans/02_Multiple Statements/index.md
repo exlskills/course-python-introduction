@@ -1,4 +1,4 @@
-# Multiple Conditions in the if Statement
+### More than one conditional statement
 
 You can put multiple conditions together in that statement.  
 

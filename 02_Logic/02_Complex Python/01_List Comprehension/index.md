@@ -1,5 +1,3 @@
-# List Comprehension
-
 ### Easy way to clean up your code
 
 Lets talk a little bit about basic for loops for a while.  Imagine that you want to fill a list with the values from 0 - 10.  

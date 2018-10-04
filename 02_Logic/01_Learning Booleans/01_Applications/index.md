@@ -1,4 +1,4 @@
-# Applications of If Statements
+### Applications of logic in Python
 
 In the previous section we covered iterables which we can set up a for loop with.  Lets consider a situation where we want to take a list for each number in the list, if it is divisible by three then we want to add it to the sum.  Otherwise, we will want to move onto the next number.
 
