@@ -1,4 +1,4 @@
-# Applications of Functions
+### How do we apply this?
 
 Lets play with some examples of writing functions.  These will tend to be easy examples as we will be getting into more difficult functions in the next unit.  
 

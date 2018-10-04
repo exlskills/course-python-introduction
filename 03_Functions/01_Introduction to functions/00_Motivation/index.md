@@ -1,5 +1,5 @@
-# Introduction to functions
-## Motivations
+
+### Motivations
 - Creates cleaner code
 - Reusable in the future
 - Get rid of unnecessary messy lines of code

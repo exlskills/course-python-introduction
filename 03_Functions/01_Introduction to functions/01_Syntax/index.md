@@ -1,4 +1,4 @@
-# Your First Function!
+### Your First Function!
 
 Below is the code for a function that adds all the numbers in a list and then sends back the sum.  We will explore each piece of the code directly
 
