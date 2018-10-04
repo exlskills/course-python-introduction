@@ -1,4 +1,4 @@
-### Strings
+### Another type of variable: Strings
 A string in python is a variable that contains text.  This can take many forms, and a string can contain numbers in the form of text.  Here are a couple of examples of strings.
 
 ```python

@@ -1,4 +1,4 @@
-### Floats
+### Numbers with Decimals
 In python a float refers to a number that has decimal places.  
 
 ```python
@@ -20,4 +20,4 @@ z = x+y
 
 This will give you a new variable `z` which is equal to 6.2
 
-Calling the function `float(number)` will turn an integer into a number that can contain decimal places. 
+Calling the function `float(number)` will turn an integer into a number that can contain decimal places.
