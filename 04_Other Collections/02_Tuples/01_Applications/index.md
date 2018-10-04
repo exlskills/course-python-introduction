@@ -1,4 +1,4 @@
-## Applications of Tuples:
+### Using Tuples in your code!
 
 1. Length of a Tuple
 ```python

@@ -1,4 +1,4 @@
-## Dictionary Applications
+### Using Dictionaries in our code
 
 To initialize a new dictionary you would use curly braces:
 
@@ -67,6 +67,6 @@ You can check to see if a dictionary contains a specific key by using the `in` o
 
 ```python
 d= {'a': 1, 'b': 2, 'c': 3, 'd': 4}
-'a' in d #True 
+'a' in d #True
 'f' in d #False
 ````

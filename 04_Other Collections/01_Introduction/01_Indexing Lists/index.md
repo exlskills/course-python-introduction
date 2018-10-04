@@ -1,4 +1,4 @@
-## Back to lists
+### Back to lists
 
 One important aspect of lists that we have only briefly covered is indexing into lists.  Each value in a list has an index which refers to the location of the value inside the list.  For example if we have the following list:
 

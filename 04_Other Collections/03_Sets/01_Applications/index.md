@@ -1,4 +1,4 @@
-## Application of Sets
+### Application of Sets
 
 Another nice attribute of sets is that every value in a set is unique.  This means that if you are trying to get rid of duplicates in a list, an easy way to do this is as follows:
 
