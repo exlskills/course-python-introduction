@@ -1,4 +1,4 @@
-## Python Identity Operators
+### The **in** operator
 
 Membership operators are used to test if a sequence is presented in an object:
 

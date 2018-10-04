@@ -1,4 +1,4 @@
-# Functions and Iterables
+### Creating for loops and putting it into a function
 
 - Since we just introduced a list, one of the most useful parts of a list is that they are an **iterable**
 

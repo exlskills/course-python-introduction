@@ -1,4 +1,5 @@
-# Collections - Storing Data in a  python list
+### First up: Collections 
+#### Storing Data in a  python list
 
 Once you have had the opportunity to use each of these data types in python, you can hold these variables in a multitude of data structures.  One of the most useful data structures that you will find are lists.
 

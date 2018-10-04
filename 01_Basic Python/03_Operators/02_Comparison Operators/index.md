@@ -1,4 +1,4 @@
-Python Comparison Operators
+### Comparing Variables
 
 Comparison operators are used to compare two values:
 
