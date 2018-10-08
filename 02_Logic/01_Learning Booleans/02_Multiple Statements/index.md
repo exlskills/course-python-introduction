@@ -48,5 +48,7 @@ for word in lst:
 
   # Add our condition (more than 3 letters or contains 's')
   if (len(word) > 5) or ('s' in word ):
+
+    # If it met our condition, print the word
     print(word)
 ```
