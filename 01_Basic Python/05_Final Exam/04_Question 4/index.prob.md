@@ -1,4 +1,4 @@
->>What type of variables can we hold in a list?? <<
+>>What type of variables can we hold in a list? <<
 
 ( ) Strings
 ( ) Floats

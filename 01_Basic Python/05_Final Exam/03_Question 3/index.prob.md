@@ -1,4 +1,4 @@
->>What **methods** can we use on strings? <<
+<!-- >>What **methods** can we use on strings? << -->
 
 ( ) `.split()`
 ( ) `.upper()`
