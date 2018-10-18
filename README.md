@@ -33,3 +33,4 @@ The format for this course is as follows:
 **Final Exam still need to be written**
 
 **Live Coding exercise still need to be implemented**
+
