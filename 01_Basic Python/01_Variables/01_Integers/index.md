@@ -15,6 +15,7 @@ You can add integers together which will result in another integer.
 x = 3
 y = 6
 z = x+y
+print(z)
 ```
 
 This will give you a new variable `z` which is equal to 9
