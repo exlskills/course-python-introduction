@@ -33,23 +33,7 @@ There are a multitude of other mathematical functions that you can use.
 
 ## Examples in the interpreter!
 
-<!-- ```python
-# Declare a string:
 
-# Strings can be multiple letters
-string1 = 'Hello World'
-
-# Strings can hold a text representation of a number
-string2 = "1"
-
-# Strings can hold a text representation of multiple numbers
-string3 = '1 2 3'
-
-# Print each out
-print(string1)
-print(string2)
-print(string3)
-``` -->
 ```python
 
   # Declare variables x and y
