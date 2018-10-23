@@ -12,7 +12,7 @@ In this case, our result would be 36 as 3 and 33 are the only numbers that are d
 3. If the number is divisible by 3, add it to the sum (check number modulus 3 == 0)
 4. Otherwise keep going through the list
 #### Solution
-```Python
+```python
 lst = [3,10,33,14]
 
 #Initialize the sum
