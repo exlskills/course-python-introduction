@@ -33,7 +33,7 @@ Here I will introduce these operators, and also provide the space for you to cre
 
 **Floor division:** x // y
 
-```Python
+```python
 # Example: Declare variables and multiply them
 x = 10
 y = 5
