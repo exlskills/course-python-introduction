@@ -15,14 +15,14 @@ Comparison operators are used to compare two values:
 
 ```python
 # is 2 less than 3?
-print('Is 2 < 3? ' 2 < 3 )
+print('Is 2 < 3? ', 2 < 3 )
 
 # is 2 greater than 3?
-print('Is 2 > 3? ' 2 > 3 )
+print('Is 2 > 3? ', 2 > 3 )
 
 # is 2 equal to 3?
-print('Is 2 = 3? ' 2 == 3 )
+print('Is 2 = 3? ', 2 == 3 )
 
 # is 2 not equal to 3?
-print('Is 2 != 3? ' 2 != 3 )
+print('Is 2 != 3? ', 2 != 3 )
 ```
