@@ -36,9 +36,10 @@ In the next slide, we explore what each of the pieces looks like!
     submitted? Now that you&#39;re familiar with the interface, let&#39;s get down to R
     business!&quot;)
   </code>
+
   <div data-type="hint">
-    <p>Just add a line of R code that calculates the sum of 6 and 12, just like the
-      example
-      in the sample code!</p>
+    <p>
+    Just add a line of R code that calculates the sum of 6 and 12, just like the example in the sample code!
+    </p>
   </div>
 </div>
