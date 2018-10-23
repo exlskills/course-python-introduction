@@ -33,7 +33,7 @@ There are a multitude of other mathematical functions that you can use.
 
 ## Examples in the interpreter!
 
-```python
+<!-- ```python
 # Declare a string:
 
 # Strings can be multiple letters
@@ -49,8 +49,8 @@ string3 = '1 2 3'
 print(string1)
 print(string2)
 print(string3)
-```
-<!-- ```python
+``` -->
+```python
 
   # Declare variables x and y
   x = 2
@@ -68,4 +68,4 @@ print(string3)
   # Divide x and y and print the result
   print('x / y = ' x / y)
 
-``` -->
+```
