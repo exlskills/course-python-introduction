@@ -20,14 +20,10 @@ Instead of having the for loop after initializing the list, we can have the for 
 
 
 ```python
-# Make an empty list
-lst = []
 
-# Go through the numbers between 0 and 11
-for i in range(6):
-  lst.append(i)
+x = [i for i in range(6)]
 
-  x = [i for i in range(6)]
+print(x)
 ```
 
 
@@ -40,6 +36,8 @@ Example:  Lets consider a situation where we want to make a list where it only c
 
 We can achieve this with
 ```python
-[i for i in range(300) if i % 27 == 0]
+x = [i for i in range(300) if i % 27 == 0]
+
+print(x)
 ```
 Which gives us back the list:`[0, 27, 54, 81, 108, 135, 162, 189, 216, 243, 270, 297]`
