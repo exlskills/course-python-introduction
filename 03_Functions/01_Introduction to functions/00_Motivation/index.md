@@ -13,7 +13,7 @@ You can call a function in a python script and reuse it multiple times.  This me
 3. Code that executes inside the function.
 4. Return statement that sends back information.
 
-In the next slide, we explore what each of the pieces looks like
+In the next slide, we explore what each of the pieces looks like!!
 
 
 <div data-datacamp-exercise data-lang="r" data-height="500">
