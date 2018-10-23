@@ -6,7 +6,7 @@ course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/course-i
 language: en
 est_minutes: 1080
 primary_topic: Python
-repo_url: https://github.com/exlskills/course-intro-to-python
+repo_url: https://github.com/exlskills/course-python-introduction
 topics:
   - Python
   - Computer Science
