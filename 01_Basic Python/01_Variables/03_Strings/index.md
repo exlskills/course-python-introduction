@@ -27,11 +27,6 @@ String literals in python are surrounded by either single quotation marks, or do
 
 Strings can be output to screen using the print function
 
-```python
-# This will print the string
-string1 = 'Hello World'
-print(string1)
-```
 
 As well, there are a couple of methods that exist that can be used with strings. I will introduce a few.
 
