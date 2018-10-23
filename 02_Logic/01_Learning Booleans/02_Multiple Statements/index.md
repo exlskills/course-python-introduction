@@ -11,7 +11,7 @@ Steps to a solution:
 3. If the number > 3 **and** number < 7, add it to the sum
 
 Solution:
-```Python
+```python
 lst = [3,10,33,14]
 
 #Initialize the sum
@@ -40,7 +40,7 @@ really
 cats
 ```
 To do this we would implement the following code:
-```Python
+```python
 lst = ['hello', 'world', 'I', 'really','like','cats']
 
 # Iterate through all the words
