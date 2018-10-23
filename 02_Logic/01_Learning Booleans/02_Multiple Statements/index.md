@@ -13,7 +13,7 @@ Steps to a solution:
 
 Solution:
 ```python
-lst = [3,10,33,14]
+lst = [1,5,4,12,18,6]
 
 #Initialize the sum
 s = 0
