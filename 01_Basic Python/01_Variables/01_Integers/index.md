@@ -22,9 +22,16 @@ These are often called just integers or ints, are positive or negative whole num
 You can add integers together which will result in another integer. Below is an example of how you would do this.  By running the code below you will see the output of adding these two variables together!
 
 ```python
+# Define the variable x
 x = 3
+
+# Define the variable y
 y = 6
+
+# Make z equal to the sum of x and y
 z = x+y
+
+# Print out some text and the value of variable z
 print('The sum of the variables is: ',z)
 
 ```
