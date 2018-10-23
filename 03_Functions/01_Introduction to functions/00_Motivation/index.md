@@ -29,12 +29,9 @@ In the next slide, we explore what each of the pieces looks like!
     # Calculate 6 + 12
     6 + 12</code>
   <code data-type="sct">
-    test_output_contains(&quot;18&quot;, incorrect_msg = &quot;Make sure to add 6 + 12
-    on
-    a new line. Do not start the line with a #, otherwise your R code is not executed!&quot;)
-    success_msg(&quot;Awesome! See how the console shows the result of the R code you
-    submitted? Now that you&#39;re familiar with the interface, let&#39;s get down to R
-    business!&quot;)
+    test_output_contains(&quot;18&quot;, incorrect_msg = &quot;Make sure to add 6 + 12 on a new line. Do not start the line with a #, otherwise your R code is not executed!&quot;)
+
+    success_msg(&quot;Awesome! See how the console shows the result of the R code you submitted? Now that you&#39;re familiar with the interface, let&#39;s get down to R business!&quot;)
   </code>
 
   <div data-type="hint">
