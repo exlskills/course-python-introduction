@@ -17,6 +17,8 @@ There are a multitude of other mathematical functions that you can use.
 
 - `/` = Division
   - Can be used with floats and integers
+
+
 ---
 #### Other functions:
 
@@ -28,15 +30,26 @@ There are a multitude of other mathematical functions that you can use.
 - `%` Modulus Division
   - In computing, the modulo operation finds the remainder after division of one number by another (sometimes called modulus)
 
+
+## Examples in the interpreter!
   ```python
 
-  # Assign x to be  = 2
+  # Declare variables x and y
   x = 2
+  y = 3
 
-  #Assign y = 2
-  y = 2
+  # Add x and y and print the result
+  print('The sum of x and y is: ',x + y)
 
-  #print out the result
-  print(x + y)
+  # Subtract x and y and print the result
+  print('The difference of x and y is: ', x - y)
+
+  # Multiply x and y and print the result
+  print('x * y equals: ', x * y)
+
+  # Divide x and y and print the result
+  print('x / y = ' x / y)
+
+  
 
   ```
