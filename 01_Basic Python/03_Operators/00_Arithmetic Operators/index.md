@@ -24,5 +24,5 @@ Python divides the operators in the following groups:
 |*|Multiplication|x * y
 |/|Division|x / y	|
 |%|Modulus|x % y|
-|**|Exponentiation|x ** y	 
-|//|Floor division|x // y
+|**|Exponentiation|x ** y| 
+|//|Floor division|x // y|
