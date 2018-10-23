@@ -19,7 +19,7 @@ There are a multitude of other mathematical functions that you can use.
   - Can be used with floats and integers
 
 
----
+
 #### Other functions:
 
 - `**` = Exponential
@@ -50,6 +50,5 @@ There are a multitude of other mathematical functions that you can use.
   # Divide x and y and print the result
   print('x / y = ' x / y)
 
-  
 
   ```
