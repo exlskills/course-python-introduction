@@ -13,7 +13,7 @@ You can call a function in a python script and reuse it multiple times.  This me
 3. Code that executes inside the function.
 4. Return statement that sends back information.
 
-In the next slide, we explore what each of the pieces looks like!!
+In the next slide, we explore what each of the pieces looks like!
 
 
 <div data-datacamp-exercise data-lang="python" data-height="500">
@@ -32,7 +32,9 @@ In the next slide, we explore what each of the pieces looks like!!
     6 + 12</code>
   <code data-type="sct">
     test_output_contains(&quot;18&quot;, incorrect_msg = &quot;Make sure to add 6 + 12 on a new line. Do not start the line with a #, otherwise your R code is not executed!&quot;)
-    success_msg(&quot;Awesome! See how the console shows the result of the R code you submitted? Now that you&#39;re familiar with the interface, let&#39;s get down to R business!&quot;)
+    success_msg(&quot;Awesome! See how the console shows the result of the R code you
+    submitted? Now that you&#39;re familiar with the interface, let&#39;s get down to R
+    business!&quot;)
   </code>
   <div data-type="hint">
     <p>Just add a line of R code that calculates the sum of 6 and 12, just like the
