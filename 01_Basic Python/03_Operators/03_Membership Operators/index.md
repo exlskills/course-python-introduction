@@ -15,7 +15,7 @@ print('Is 5 in the list? ',5 in lst) # Return False
 #Declare the string
 string = 'Cats are cool and cuddly'
 
-print('Is the word Cats in the string? ', Cats in string)# Returns True
-print('Are the words Hellow World in the string? ','Hello World' not in string) # Returns False
+print('Is the word Cats in the string? ', 'Cats' in string)
+print('Are the words Hellow World in the string? ','Hello World' not in string) 
 
 ```
