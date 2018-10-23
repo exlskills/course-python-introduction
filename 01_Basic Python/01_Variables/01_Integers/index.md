@@ -4,10 +4,14 @@ In python an integer refers to a number that is does not have any decimal places
 
 In the editor below, we will go ahead and assign x equal to a number (36) and then print out the variable.  Pressing run will allow you to see the output & you can try it yourself in the ipython terminal!
 
+The input is in script.py, while the output will be in the ipython terminal.  If this is difficult, please message an instructor
+
 ```python
+#Declare the Variable (x can be equal to any integer)
 x = 36
 
-print('X is equal to: ',x)
+#Print out x with some text
+print('x is equal to: ',x)
 ```
 
 
