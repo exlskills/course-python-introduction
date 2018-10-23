@@ -20,7 +20,9 @@ Instead of having the for loop after initializing the list, we can have the for 
 ```python
 
 [i for i in range(6)]
+
 ```
+
 See how much cleaner and shorter that is? T
 
 We can also apply an if statement inside the list comprehension like we where talking about before.  
