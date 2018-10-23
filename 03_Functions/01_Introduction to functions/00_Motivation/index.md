@@ -21,13 +21,16 @@ In the next slide, we explore what each of the pieces looks like!
     3 + 4
 
     # Calculate 6 + 12
+
   </code>
   <code data-type="solution">
     # Calculate 3 + 4
     3 + 4
 
     # Calculate 6 + 12
-    6 + 12</code>
+    6 + 12
+  </code>
+
   <code data-type="sct">
     test_output_contains(&quot;21&quot;, incorrect_msg = &quot;Make sure to add 6 + 12 on a new line. Do not start the line with a #, otherwise your R code is not executed!&quot;)
 
