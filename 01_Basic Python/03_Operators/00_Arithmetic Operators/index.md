@@ -15,7 +15,9 @@ Python divides the operators in the following groups:
 - Membership operators
 
 
-- Since we already looked at the Arithmetic Operators in the previous lectures, I will gloss over them here
+### Types of Arithmetic Operators
+
+Here I will introduce these operators, and also provide the space for you to create variables and play with these operations.  Linked to each topic is a wiki article describing the functionality.
 
 **Addition:**  x + y
 
@@ -30,3 +32,10 @@ Python divides the operators in the following groups:
 **Exponentiation:** x ** y
 
 **Floor division:** x // y
+
+```Python
+# Example: Declare variables and multiply them
+x = 10
+y = 5
+print(x + y)
+```
