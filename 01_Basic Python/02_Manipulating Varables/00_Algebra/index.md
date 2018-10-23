@@ -32,7 +32,8 @@ There are a multitude of other mathematical functions that you can use.
 
 
 ## Examples in the interpreter!
-  ```python
+
+```python
 
   # Declare variables x and y
   x = 2
@@ -50,5 +51,4 @@ There are a multitude of other mathematical functions that you can use.
   # Divide x and y and print the result
   print('x / y = ' x / y)
 
-
-  ```
+```
