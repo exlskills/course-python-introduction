@@ -19,7 +19,7 @@ Python divides the operators in the following groups:
 
 Here I will introduce these operators, and also provide the space for you to create variables and play with these operations.  Linked to each topic is a wiki article describing the functionality.
 
-**Addition:**  x + y
+[**Addition:**](https://en.wikipedia.org/wiki/Addition)  x + y
 
 **Subtraction:** x - y
 
