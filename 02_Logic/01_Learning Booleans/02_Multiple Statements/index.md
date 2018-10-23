@@ -1,5 +1,6 @@
 ### More than one conditional statement
 
+not
 You can put multiple conditions together in that statement.  
 
 Lets consider a situation where we want to go through all the numbers in a list and sum all the values that are between 4 and 7.  For example is our list is: `lst = [1,5,4,12,18,6]` our result would be 5+4+6 = 15
