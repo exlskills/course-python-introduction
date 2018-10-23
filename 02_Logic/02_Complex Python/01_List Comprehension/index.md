@@ -17,11 +17,18 @@ This will result in array that is equal to `[0,1,2,3,4,5]` **But there is a easi
 
 Instead of having the for loop after initializing the list, we can have the for loop inside the list. This is called **List Comprehension** The following code will return the same list as the code above.
 
+
 ```python
+# Make an empty list
+lst = []
 
-[i for i in range(6)]
+# Go through the numbers between 0 and 11
+for i in range(6):
+  lst.append(i)
 
-```
+  x = [i for i in range(6)]
+  ```
+
 
 See how much cleaner and shorter that is? T
 
