@@ -14,3 +14,16 @@ Assignment operators are used to assign values to variables:
 |%=|x %= 3|x = x % 3|x equals x modulus ...|
 |//=|x //= 3|x = x // 3|x equals x integer division ...|
 |**=|x **= 3|x = x ** 3|x equals x to the power of ...|
+
+### Examples of using this
+
+```python
+# Declare the variable x
+x = 5
+
+# Update the variable
+x += 5
+
+# Print it
+print(x)
+```
