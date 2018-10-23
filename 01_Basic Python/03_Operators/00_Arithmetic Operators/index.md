@@ -20,9 +20,9 @@ Python divides the operators in the following groups:
 |Operator|Name|Example
 |-|-|-|
 |+|Addition|x + y|
-|-|Subtraction|x - y
-|*|Multiplication|x * y
+|-|Subtraction|x - y|
+|*|Multiplication|x * y|
 |/|Division|x / y	|
 |%|Modulus|x % y|
-|**|Exponentiation|x ** y| 
+|**|Exponentiation|x ** y|
 |//|Floor division|x // y|
