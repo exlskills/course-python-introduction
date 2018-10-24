@@ -22,8 +22,13 @@ As well, I am going to introduce a python built in function that is called **enu
 Enumerate is a built-in function of Python. It’s usefulness can not be summarized in a single line. Yet most of the newcomers and even some advanced programmers are unaware of it. It allows us to loop over something and have an automatic counter. Here is an example:
 
 ```python
+# Define the list
 my_list = ['apple', 'banana', 'grapes', 'pear']
+
+# Iterate through the list and add a counter using enumerate
 for c, value in enumerate(my_list):
+
+    # print the counter and the value
     print(c, value)
 
 # Output:
@@ -55,12 +60,20 @@ def index_equals(lst):
   # Iterate through the original list and enumerate the items in it
   for i,value in enumerate(lst):
 
-    # Create our logic statement to check our condition
-    if i == value:
+  # Create our logic statement to check our condition
+  if i == value:
 
-      # If it meets the conditions, append it to the new list
-      new_list.append(value)
+    # If it meets the conditions, append it to the new list
+    new_list.append(value)
 
   # Return the new list
   return new_list
+
+
+# Test it out
+list_1 = [0,1,3,4,6]
+index_equals(list_1) # should return [0,1]
+
+list_2 = [1,1,2,3,6]
+index_equals(list_1) # should return [1,2,3]
 ```
