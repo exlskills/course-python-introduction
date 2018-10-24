@@ -67,9 +67,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
   # Initialize the sum
   s = 0
-
-
-	# Print out s!
+  # Print out s!
 	print(s)
 
 
@@ -81,10 +79,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
   # Initialize the sum
   s = 0
-
-
-
-	# Print out s!
+  # Print out s!
 	print(s)
 
 
