@@ -70,7 +70,6 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
     #YOUR TURN!  Add all the Numbers together
 
-
 		# Print out s!
 		print(s)
 
@@ -90,6 +89,8 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
 		# Print out s!
 		print(s)
+
+
 	</code>
 
 	<code data-type="sct">
