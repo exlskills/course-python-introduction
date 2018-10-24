@@ -59,11 +59,12 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 - How about `lst = range(100)`?
 
 
-<div data-datacamp-exercise data-lang="r">
+<div data-datacamp-exercise data-lang="python">
 	<code data-type="pre-exercise-code">
 		# This will get executed each time the exercise gets initialized
 		b = 6
 	</code>
+  
 	<code data-type="sample-code">
 		# Create a variable a, equal to 5
 
