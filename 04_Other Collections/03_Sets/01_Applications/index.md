@@ -5,6 +5,8 @@ Another nice attribute of sets is that every value in a set is unique.  This mea
 ```python
 list1 = [1,1,1,2,2,2,3,3,]
 unique_list = list(set(list1))
+
+print(unique_list)
 ```
 This turns list1 into `[1,2,3]`
 
