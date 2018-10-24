@@ -62,13 +62,13 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 <div data-datacamp-exercise data-lang="python">
 
 	<code data-type="sample-code">
-		# Create a new list and call it x
-    x = range(100)
+	# Create a new list and call it x
+  x = range(100)
 
-    # Initialize the sum
-    s = 0
+  # Initialize the sum
+  s = 0
 
-    #YOUR TURN!  Add all the Numbers together
+  #YOUR TURN!  Add all the Numbers together
 
 	# Print out s!
 	print(s)
@@ -77,15 +77,15 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 	</code>
 
 	<code data-type="solution">
-		# Create a new list and call it x
-		x = range(100)
+	# Create a new list and call it x
+	x = range(100)
 
-    # Initialize the sum
-    s = 0
+  # Initialize the sum
+  s = 0
 
-    #YOUR TURN!  Add all the Numbers together
-    for number is x:
-      s += number
+  #YOUR TURN!  Add all the Numbers together
+  for number is x:
+    s += number
 
 	# Print out s!
 	print(s)
