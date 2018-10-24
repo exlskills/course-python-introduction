@@ -26,14 +26,30 @@ def count_letters(string):
   #Create a count = 0 that we will update
   count = 0
 
-  #Go through each letter in the string and increment the count
+  # Iterate through each letter in the string
   for letter in string:
+
+    # update the counts each time
     count += 1
   return count
 ```
 
 and then to use the functions we would just need to define our string and call the function on it:
 ```python
+
+def count_letters(string):
+  #Create a count = 0 that we will update
+  count = 0
+
+  # Iterate through each letter in the string
+  for letter in string:
+
+    # update the counts each time
+    count += 1
+  return count
+
+
+  
 string = 'Hello, you are learning python!'
 print(count_letters)
 ```
