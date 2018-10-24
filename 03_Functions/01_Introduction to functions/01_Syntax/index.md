@@ -40,6 +40,8 @@ The next couple of lines should look familiar:
 s = 0
 for number in lst:
   s += number
+
+print(s)
 ```
 This is just a for loop that iterates through the list.
 
