@@ -69,7 +69,6 @@ Also, don't forget to add your docstring so that someone else who wants to use y
   # calculate the sum of the numbers in the list!
   # Don't for get to print the results
   </code>
-  
   <code data-type="solution">
   # Declare the list
   lst = range(100)
