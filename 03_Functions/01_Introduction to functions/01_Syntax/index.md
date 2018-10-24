@@ -68,8 +68,7 @@ adding some text
 
   # Initialize the sum
   s = 0
-  # Print out s!
-	print(s)
+  print(s)
 
 
 	</code>
@@ -80,8 +79,7 @@ adding some text
 
   # Initialize the sum
   s = 0
-  # Print out s!
-	print(s)
+  print(s)
 
 
 	</code>
