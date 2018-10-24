@@ -60,11 +60,11 @@ def index_equals(lst):
   # Iterate through the original list and enumerate the items in it
   for i,value in enumerate(lst):
 
-  # Create our logic statement to check our condition
-  if i == value:
+    # Create our logic statement to check our condition
+    if i == value:
 
-    # If it meets the conditions, append it to the new list
-    new_list.append(value)
+      # If it meets the conditions, append it to the new list
+      new_list.append(value)
 
   # Return the new list
   return new_list
