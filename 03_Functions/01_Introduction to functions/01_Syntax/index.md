@@ -70,7 +70,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
     #YOUR TURN!  Add all the Numbers together
 
-		# Print out s!or not
+		# Print out s!or not FUCK YOU
 		print(s)
 
 
