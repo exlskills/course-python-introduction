@@ -8,7 +8,6 @@ def sum_numbers(lst):
   This is a docstring, and it describes your function
   INPUT: lst is a list that we want to sum across
   OUTPUT: s is a scalar that is the sum of the list
-
   """
   # Declare the sum
   s = 0
@@ -22,18 +21,18 @@ def sum_numbers(lst):
   # Return the sum
   return s
 
-  # Declare a new list
-  new_list = [1,2,3,4,3,2,1]
+# Declare a new list
+new_list = [1,2,3,4,3,2,1]
 
-  #Pass the list to the function we just created
-  print(sum_numbers(new_list))
+#Pass the list to the function we just created
+print(sum_numbers(new_list))
 ```
 
 Ok so the first line `def sum_numbers(lst):` is the declaration of our function.  
 - def refers to _define_ and _sum_numbers_ is the name of our function.  
 
 Functions then have parentheses which contain the arguments that are being passed to the function.  In this case, we are just passing a list and therefore lst is inside the parentheses.  
- 
+
 You may have a situation when you require no arguments and on the converse a situation where you require many arguments.
 
 The next couple of lines should look familiar:
