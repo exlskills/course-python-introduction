@@ -82,7 +82,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 		print(x)
 	</code>
 	<code data-type="sct">
-		test_object("a")
+		test_object("x")
 		test_function("print")
 		success_msg("Great job!")
 	</code>
