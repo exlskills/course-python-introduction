@@ -72,8 +72,8 @@ def index_equals(lst):
 
 # Test it out
 list_1 = [0,1,3,4,6]
-index_equals(list_1) # should return [0,1]
+print(index_equals(list_1)) # should return [0,1]
 
 list_2 = [1,1,2,3,6]
-index_equals(list_1) # should return [1,2,3]
+print(index_equals(list_2)) # should return [1,2,3]
 ```
