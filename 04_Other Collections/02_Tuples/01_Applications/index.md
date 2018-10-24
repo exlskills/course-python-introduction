@@ -4,28 +4,32 @@
 ```python
 tup = (1,2,3)
 
-len(tup) # will return 3!
+print(len(tup)) # will return 3!
 ```
 2. Concatenation of Tuples
 ```python
 tup1 = (1,2,3)
 tup2 = (3,4,5)
-tup1 + tup2 # Will return (1,2,3,4,5,6)
+
+
+print(tup1 + tup2)  # Will return (1,2,3,4,5,6)
 ```
 3. Repetition
 ```python
 tup = ('hello',)*4
 
+print(tup)
+
 # Returns ('hello', 'hello', 'hello', 'hello')
 ```
 4. Membership
 ```python
-3 in (1, 2, 3)  #returns True
+print(3 in (1, 2, 3))  #returns True
 ```
 5. Iteration:
 ```python
 for x in (1, 2, 3):
-  print x
+  print(x)
 
 # prints out 1,2,3
 ```
