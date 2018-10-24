@@ -35,3 +35,9 @@ A couple of challenges to get you started (we will cover these in the next secti
 1. Write a function that gives back the length of a list
 2. Write a function that tells you whether or not the word 'cat' is in a string
 3. Write a function that returns whether or not the argument is string or an integer
+
+You can practice here!!
+```python
+
+
+```
