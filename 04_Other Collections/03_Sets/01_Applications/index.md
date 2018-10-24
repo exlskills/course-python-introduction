@@ -76,6 +76,9 @@ Form our example above, an intersect would return an empty set as there is no ov
 
  # See the difference between each
  safe = people – vampires
+
+ # print it out
+ print(safe)
  ```
 Set `safe` will have all the elements that are in people but not vampire
 

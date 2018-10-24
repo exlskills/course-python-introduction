@@ -7,11 +7,14 @@ A dictionary is a collection which is unordered, changeable and indexed. In Pyth
 A dictionary is the same as a hash table, which allows us to look up values based on a key.
 
 ```python
+# Declare the dictionary
 thisdict =	{
   "brand": "Ford",
   "model": "Mustang",
   "year": 1964
 }
+
+# print out the brand
 print(thisdict["brand"]) #prints out Ford
 ```
 In the next slide we will explore more on how to create a dictionary and use it in our code.
