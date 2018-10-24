@@ -60,6 +60,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
 
 ### Your Turn!  Test this out in the terminal!
+ - try turning this into a function
 
 ```python
 # Declare the list
