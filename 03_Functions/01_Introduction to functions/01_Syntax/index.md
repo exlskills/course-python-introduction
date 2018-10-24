@@ -87,7 +87,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
     for number is x:
       s += number
 
-		# Print out s!
+		# Print out s! or not
 		print(s)
 
 
