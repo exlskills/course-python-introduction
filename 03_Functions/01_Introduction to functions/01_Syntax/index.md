@@ -59,22 +59,26 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 - How about `lst = range(100)`?
 
 
-<div data-datacamp-exercise data-lang="r" data-height="500">
+<div data-datacamp-exercise data-lang="python" data-height="500">
   <code data-type="pre-exercise-code"># no pec</code>
   <code data-type="sample-code">
-    # Calculate 3 + 4
-    3 + 4
+    # Declare the list
+    lst = range(100)
 
-    # Calculate 6 + 12
+    # YOUR TURN:
+    # calculate the sum of the numbers in the list!
+    # Don't for get to print the results
   </code>
   <code data-type="solution">
-    # Calculate 3 + 4
-    3 + 4
+  # Declare the list
+  lst = range(100)
 
-    # Calculate 6 + 12
-    6 + 12</code>
+  # YOUR TURN:
+  # calculate the sum of the numbers in the list!
+  # Don't for get to print the results
+    sum(range(100))</code>
   <code data-type="sct">
-    test_output_contains(&quot;18&quot;, incorrect_msg = &quot;Make sure to add 6 + 12
+    test_output_contains(&quot;4950&quot;, incorrect_msg = &quot;Make sure to add 6 + 12
     on
     a new line. Do not start the line with a #, otherwise your R code is not executed!&quot;)
     success_msg(&quot;Awesome! See how the console shows the result of the R code you
