@@ -10,8 +10,10 @@ string = 'Hello, you are learning python!'
 #Create a count = 0 that we will update
 count = 0
 
-#Go through each letter in the string and increment the count
+#Iterate through each letter in the string
 for letter in string:
+
+  #update the count
   count += 1
 
 print(count)
@@ -49,7 +51,6 @@ def count_letters(string):
   return count
 
 
-  
 string = 'Hello, you are learning python!'
 print(count_letters)
 ```
