@@ -16,3 +16,9 @@ description: This is the EXLskills free and open-source Python Introduction Cour
 info_md: |2
   # EXLskills Python Introduction Course
   This is the EXLskills free and open-source Python Introduction Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Python, to a moderate level of essential coding proficiency.
+instructor_timekit:
+  intervals:
+    - credits: 5
+      duration_seconds: 1800
+      project_id: 30499d7f-e90b-4edb-89b2-ea00d3d9b0c7
+
