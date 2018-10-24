@@ -59,35 +59,30 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 - How about `lst = range(100)`?
 
 
-<div data-datacamp-exercise data-lang="python" data-height="500">
-  <code data-type="pre-exercise-code"># no pec</code>
-  <code data-type="sample-code">
-    # Declare the list
-    lst = range(200)
+<div data-datacamp-exercise data-lang="r">
+	<code data-type="pre-exercise-code">
+		# This will get executed each time the exercise gets initialized
+		b = 6
+	</code>
+	<code data-type="sample-code">
+		# Create a variable a, equal to 5
 
-    # YOUR TURN:
-    # calculate the sum of the numbers in the list!
-    # Don't for get to print the results
-  </code>
-  <code data-type="solution">
-  # Declare the list
-  lst = range(200)
 
-  # YOUR TURN:
-  # calculate the sum of the numbers in the list!
-  # Don't for get to print the results
-  sum(range(100))</code>
-  <code data-type="sct">
-    test_output_contains(&quot;4950&quot;, incorrect_msg = &quot;Make sure to add 6 + 12
-    on
-    a new line. Do not start the line with a #, otherwise your R code is not executed!&quot;)
-    success_msg(&quot;Awesome! See how the console shows the result of the R code you
-    submitted? Now that you&#39;re familiar with the interface, let&#39;s get down to R
-    business!&quot;)
-  </code>
-  <div data-type="hint">
-    <p>Just add a line of R code that calculates the sum of 6 and 12, just like the
-      example
-      in the sample code!</p>
-  </div>
+		# Print out a
+
+
+	</code>
+	<code data-type="solution">
+		# Create a variable a, equal to 5
+		a <- 5
+
+		# Print out a
+		print(a)
+	</code>
+	<code data-type="sct">
+		test_object("a")
+		test_function("print")
+		success_msg("Great job!")
+	</code>
+	<div data-type="hint">Use the assignment operator (<code><-</code>) to create the variable <code>a</code>.</div>
 </div>
