@@ -58,6 +58,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 - What does **sum_numbers** return for the list `[1,1,1,1,15,2,1,2,3]`?
 - How about `lst = range(100)`?
 
+removing some text
 
 
 <div data-datacamp-exercise data-lang="python">
@@ -66,7 +67,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 	# Create a new list and call it x
   x = range(100)
 
-  
+
 
 
 	</code>
