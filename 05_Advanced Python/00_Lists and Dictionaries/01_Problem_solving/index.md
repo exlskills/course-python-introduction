@@ -12,7 +12,6 @@ I am going to write a function that solves this, and apply many of the skills th
 ```python
 
 def reverse_number(number):
-
   '''
   INPUT: a number that we want to reverse.
   OUTPUT: reversed number
@@ -26,7 +25,6 @@ def reverse_number(number):
 ```python
 
 def reverse_number(number):
-
   '''
   INPUT: a number that we want to reverse.
   OUTPUT: reversed number
@@ -36,6 +34,8 @@ def reverse_number(number):
 
   #Reverse the number
   return reversed_number
+
+reverse_number(22)
 ```
 
 3.  A quick google search says it easy to reverse a list using the `reversed` method
