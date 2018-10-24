@@ -63,7 +63,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
   <code data-type="pre-exercise-code"># no pec</code>
   <code data-type="sample-code">
     # Declare the list
-    lst = range(100)
+    lst = range(200)
 
     # YOUR TURN:
     # calculate the sum of the numbers in the list!
@@ -71,7 +71,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
   </code>
   <code data-type="solution">
   # Declare the list
-  lst = range(100)
+  lst = range(200)
 
   # YOUR TURN:
   # calculate the sum of the numbers in the list!
