@@ -47,7 +47,7 @@ Now you may be beginning to see where I am going with this.  Using the **Enumera
 3.  If the value meets our conditions add it to a new list
 4.  Return the new list
 
-### Solution
+### Solution TEST
 ```python
 def index_equals(lst):
   '''
