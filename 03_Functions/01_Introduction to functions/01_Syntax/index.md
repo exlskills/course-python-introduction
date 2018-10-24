@@ -62,12 +62,12 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 <div data-datacamp-exercise data-lang="python" data-height="500">
   <code data-type="pre-exercise-code"># no pec</code>
   <code data-type="sample-code">
-  # Declare the list
-  lst = range(100)
+    # Declare the list
+    lst = range(100)
 
-  # YOUR TURN:
-  # calculate the sum of the numbers in the list!
-  # Don't for get to print the results
+    # YOUR TURN:
+    # calculate the sum of the numbers in the list!
+    # Don't for get to print the results
   </code>
   <code data-type="solution">
   # Declare the list
