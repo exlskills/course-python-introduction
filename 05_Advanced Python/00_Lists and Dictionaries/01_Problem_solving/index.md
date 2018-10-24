@@ -17,7 +17,7 @@ def reverse_number(number):
   INPUT: a number that we want to reverse.
   OUTPUT: reversed number
   '''
-
+  pass
   #Reverse the number
   return reversed_number
 ```
