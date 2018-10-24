@@ -65,7 +65,14 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 		# Create a new list and call it x
     x = range(100)
 
-		# Print out a
+    # Initialize the sum
+    s = 0
+
+    #YOUR TURN!  Add all the Numbers together
+
+
+		# Print out s!
+		print(s)
 
 
 	</code>
@@ -74,12 +81,19 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 		# Create a new list and call it x
 		x = range(100)
 
-		# Print x
-		print(x)
+    # Initialize the sum
+    s = 0
+
+    #YOUR TURN!  Add all the Numbers together
+    for number is x:
+      s += number
+
+		# Print out s!
+		print(s)
 	</code>
-  
+
 	<code data-type="sct">
-		test_object("x")
+		test_object("s")
 		test_function("print")
 		success_msg("Great job!")
 	</code>
