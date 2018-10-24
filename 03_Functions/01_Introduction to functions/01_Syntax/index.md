@@ -61,18 +61,18 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
 <div data-datacamp-exercise data-lang="python">
 
-	<code data-type="sample-code">
-	# Create a new list and call it x
-  x = range(100)
-  s = 0
-  print(s)
-	</code>
+  <code data-type="sample-code">
+    # Create a new list and call it x
+    x = range(100)
+    s = 0
+    print(s)
+  </code>
 
 	<code data-type="solution">
-	# Create a new list and call it x
-	x = range(100)
-  s = 0
-  print(s)
+  	# Create a new list and call it x
+  	x = range(100)
+    s = 0
+    print(s)
   </code>
 
 	<code data-type="sct">
@@ -80,5 +80,6 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 		test_function("print")
 		success_msg("Great job!")
 	</code>
+
 	<div data-type="hint">Use the assignment operator (<code><-</code>) to create the variable <code>a</code>.</div>
 </div>
