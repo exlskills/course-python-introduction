@@ -6,14 +6,14 @@ Assignment operators are used to assign values to variables:
 
 |Operator|Name  |Example  | Meaning           |
 |:------:|:----:|:-------:|:-----------------|    
-|=       |x = 5 |x = 5    |	Set equal to      |
-|+=      |x += 3|x = x + 3|x equals x plus ...|
-|-=|x -= 3|x = x - 3|x equals x minus ...|
-|*=|x *= 3|x = x * 3|x equals x times ...|
-|/=|x /= 3|x = x / 3|x equals x divided ...|
-|%=|x %= 3|x = x % 3|x equals x modulus ...|
-|//=|x //= 3|x = x // 3|x equals x integer division ...|
-|**=|x **= 3|x = x ** 3|x equals x to the power of ...|
+|=       | x = 5  | x = 5    |	Set equal to      |
+|+=      | x += 3 | x = x + 3| x equals x plus ...|
+| -= | x -= 3 | x = x - 3 | x equals x minus ...|
+| *= | x *= 3 | x = x * 3 | x equals x times ...|
+| /= | x /= 3 | x = x / 3 | x equals x divided ...|
+| %= | x %= 3 | x = x % 3 | x equals x modulus ...|
+| //= | x //= 3 | x = x // 3 | x equals x integer division ...|
+| **= | x **= 3 | x = x ** 3 | x equals x to the power of ...|
 
 ### Examples of using this
 
