@@ -4,7 +4,7 @@ Lets play with some examples of writing functions.  These will tend to be easy e
 
 - **Write a function that takes an integer and returns the integer squared**
 
-```Python
+```python
 # Define the function (Dont forget the colon)
 def square(value):
 
@@ -17,7 +17,7 @@ print(square(10))
 Easy!
 
 Another example with multiple arguments - **Write a function that adds two numbers together**
-```Python
+```python
 # Define the function (Don't forget the colon)
 def add(a,b):
 
