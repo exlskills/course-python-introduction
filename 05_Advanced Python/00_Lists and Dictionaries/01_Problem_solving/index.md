@@ -12,10 +12,10 @@ I am going to write a function that solves this, and apply many of the skills th
 ```python
 
 def reverse_number(number):
-  '''
+  """
   INPUT: a number that we want to reverse.
   OUTPUT: reversed number
-  '''
+  """
   pass
   #Reverse the number
   return reversed_number
@@ -25,10 +25,10 @@ def reverse_number(number):
 ```python
 
 def reverse_number(number):
-  '''
+  """
   INPUT: a number that we want to reverse.
   OUTPUT: reversed number
-  '''
+  """
   string_number = str(number)
   list_string_number = list(string_number)
 
@@ -42,11 +42,10 @@ reverse_number(22)
 ```python
 
 def reverse_number(number):
-
-  '''
+  """
   INPUT: a number that we want to reverse.
   OUTPUT: reversed number
-  '''
+  """
   string_number = str(number)
   list_string_number = list(string_number)
   reversed_list = reversed(list_string_number)
