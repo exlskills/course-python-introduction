@@ -68,7 +68,6 @@ Also, don't forget to add your docstring so that someone else who wants to use y
   # Initialize the sum
   s = 0
 
-  #YOUR TURN!  Add all the Numbers together
 
 	# Print out s!
 	print(s)
@@ -83,9 +82,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
   # Initialize the sum
   s = 0
 
-  #YOUR TURN!  Add all the Numbers together
-  for number is x:
-    s += number
+
 
 	# Print out s!
 	print(s)
