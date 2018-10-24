@@ -39,6 +39,9 @@ vampires = {"Keenan", "Rohan"}
 
 # See the union
 population = people.union(vampires)
+
+# print it out
+print(population)
 ```
 Population is now: `{'Keenan', 'Naren', 'Richie', 'Rohan', 'Sasha'}`
 
@@ -51,6 +54,9 @@ vampires = {"Keenan", "Rohan"}
 
 #see the intersections
 population = people | vampires
+
+# print it out
+print(population)
 ```
 
 3. Set intersection
