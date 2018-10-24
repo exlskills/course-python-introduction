@@ -14,7 +14,7 @@ def square(value):
 # Call the function and print out the result
 print(square(10))
 ```
-Easy! or not
+Easy! 
 Another example with multiple arguments - **Write a function that adds two numbers together**
 ```python
 # Define the function (Don't forget the colon)
