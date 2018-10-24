@@ -6,6 +6,8 @@ Given a list, write a function called _index_equals_ that **returns** only the v
 
 **Remember: In python the index always starts at 0**
 
+- Initially this is not going to return anything and may even give you an error
+
 Examples:
 ```python
 list_1 = [0,1,3,4,6]
@@ -19,7 +21,7 @@ As well, I am going to introduce a python built in function that is called **enu
 ### Actual Definition:
 Enumerate is a built-in function of Python. It’s usefulness can not be summarized in a single line. Yet most of the newcomers and even some advanced programmers are unaware of it. It allows us to loop over something and have an automatic counter. Here is an example:
 
-```
+```python
 my_list = ['apple', 'banana', 'grapes', 'pear']
 for c, value in enumerate(my_list):
     print(c, value)
@@ -55,8 +57,10 @@ def index_equals(lst):
 
     # Create our logic statement to check our condition
     if i == value:
+
+      # If it meets the conditions, append it to the new list
       new_list.append(value)
 
   # Return the new list
   return new_list
-  ```
+```

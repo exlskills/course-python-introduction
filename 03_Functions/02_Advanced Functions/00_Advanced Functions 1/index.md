@@ -33,6 +33,8 @@ def count_letters(string):
 
     # update the counts each time
     count += 1
+
+  # Return the count
   return count
 ```
 
@@ -48,11 +50,15 @@ def count_letters(string):
 
     # update the counts each time
     count += 1
+
+  # Return the count
   return count
 
-
+# Define the string
 string = 'Hello, you are learning python!'
-print(count_letters)
+
+# Call the function on the string
+print(count_letters(string))
 ```
 
 This may seem arbitrary right now, but as we get into more difficult programming, this will become very useful!  In the next lecture we explore an example of a more difficult function that we will build together.
