@@ -59,27 +59,20 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 - How about `lst = range(100)`?
 
 
-<div data-datacamp-exercise data-lang="python">
+### Your Turn!  Test this out in the terminal!
 
-  <code data-type="sample-code">
-    # Create a new list and call it x
-    x = range(100)
-    s = 0
-    print(s)
-  </code>
+```python
+# Declare the list
+x = list(range(100))
 
-	<code data-type="solution">
-  	# Create a new list and call it x
-  	x = range(100)
-    s = 0
-    print(s)
-  </code>
+#Declare a variable for the sum
+s = 0
 
-	<code data-type="sct">
-		test_object("s")
-		test_function("print")
-		success_msg("Great job!")
-	</code>
+#Iterate through the list
+for number in lst:
 
-	<div data-type="hint">Use the assignment operator (<code><-</code>) to create the variable <code>a</code>.</div>
-</div>
+  #Put your code Here
+  pass
+
+print(s)
+```
