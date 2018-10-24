@@ -66,9 +66,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 	# Create a new list and call it x
   x = range(100)
 
-  # Initialize the sum
-  s = 0
-  print(s)
+  
 
 
 	</code>
@@ -77,9 +75,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 	# Create a new list and call it x
 	x = range(100)
 
-  # Initialize the sum
-  s = 0
-  print(s)
+
 
 
 	</code>
