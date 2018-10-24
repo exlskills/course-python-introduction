@@ -13,8 +13,14 @@ Below are some methods associated with sets
 1. Add to a set:
 
 ```python
+#Create the set
 people = {"Richie", "Naren", "Sasha"}
+
+# Add someone to the set
 people.add("Elliott")
+
+#print it out
+print(people)
 ```
 The set is now `{"Richie", "Naren", "Sasha","Elliott"}`
 
@@ -23,8 +29,13 @@ The set is now `{"Richie", "Naren", "Sasha","Elliott"}`
 The union of two sets A and B is the set of elements which are in A, in B, or in both A and B. For example, if `A = {1, 3, 5, 7}` and `B = {1, 2, 4, 6}` then `A ∪ B = {1, 2, 3, 4, 5, 6, 7}`.
 
 ```python
+# Declare the set
 people = {"Richie", "Naren", "Sasha"}
+
+# Declare another set
 vampires = {"Keenan", "Rohan"}
+
+# See the union
 population = people.union(vampires)
 ```
 Population is now: `{'Keenan', 'Naren', 'Richie', 'Rohan', 'Sasha'}`
@@ -32,8 +43,11 @@ Population is now: `{'Keenan', 'Naren', 'Richie', 'Rohan', 'Sasha'}`
 This is the same as using the `|` operator:
 
 ```python
+# create the sets
 people = {"Richie", "Naren", "Sasha"}
 vampires = {"Keenan", "Rohan"}
+
+#see the intersections
 population = people | vampires
 ```
 

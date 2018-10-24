@@ -7,7 +7,7 @@ Unlike arrays, where the elements are stored as ordered list, the order of eleme
 
 Sets are very similar to dictionaries (we will get into **dictionaries** more later) and are defined using a special keyword.
 
-```python
+```
 new_set = set([1,2,3])
 ```
 But when they print out they use the curly braces. For example if we where to print out `new_set` it would print `{1,2,3}`
