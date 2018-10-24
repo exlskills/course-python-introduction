@@ -60,20 +60,16 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
 
 <div data-datacamp-exercise data-lang="python">
-	<code data-type="pre-exercise-code">
-		# This will get executed each time the exercise gets initialized
-		b = range(100)
-	</code>
 
 	<code data-type="sample-code">
 		# Create a new list and call it x
     x = range(100)
 
-
 		# Print out a
 
 
 	</code>
+
 	<code data-type="solution">
 		# Create a new list and call it x
 		x = range(100)
@@ -81,6 +77,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 		# Print x
 		print(x)
 	</code>
+  
 	<code data-type="sct">
 		test_object("x")
 		test_function("print")
