@@ -25,7 +25,7 @@ def sum_numbers(lst):
 new_list = [1,2,3,4,3,2,1]
 
 #Pass the list to the function we just created
-print(sum_numbers(new_list))
+print('The sum of the numbers in the list! ',sum_numbers(new_list))
 ```
 
 Ok so the first line `def sum_numbers(lst):` is the declaration of our function.  
