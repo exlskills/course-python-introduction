@@ -62,8 +62,11 @@ Form our example above, an intersect would return an empty set as there is no ov
  Returns a set containing all the elements of invoking set but not of the second set. We can use ‘-‘ operator here.
 
  ```python
+ # Declare the sets
  people = {"Richie", "Naren", "Sasha"}
  vampires = {"Keenan","Sasha", "Rohan"}
+
+ # See the difference between each
  safe = people – vampires
  ```
 Set `safe` will have all the elements that are in people but not vampire
