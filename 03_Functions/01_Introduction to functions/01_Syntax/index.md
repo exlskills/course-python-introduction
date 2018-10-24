@@ -66,7 +66,8 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 	</code>
 
 	<code data-type="sample-code">
-		# Create a variable a, equal to 5
+		# Create a new list and call it x
+    x = range(100)
 
 
 		# Print out a
@@ -74,11 +75,11 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 
 	</code>
 	<code data-type="solution">
-		# Create a variable a, equal to 5
-		a = 5
+		# Create a new list and call it x
+		x = range(100)
 
-		# Print out a
-		print(a)
+		# Print x
+		print(x)
 	</code>
 	<code data-type="sct">
 		test_object("a")
