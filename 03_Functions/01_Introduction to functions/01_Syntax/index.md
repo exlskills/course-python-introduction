@@ -62,9 +62,9 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 <div data-datacamp-exercise data-lang="python">
 	<code data-type="pre-exercise-code">
 		# This will get executed each time the exercise gets initialized
-		b = 6
+		b = range(100)
 	</code>
-  
+
 	<code data-type="sample-code">
 		# Create a variable a, equal to 5
 
@@ -75,7 +75,7 @@ Also, don't forget to add your docstring so that someone else who wants to use y
 	</code>
 	<code data-type="solution">
 		# Create a variable a, equal to 5
-		a <- 5
+		a = 5
 
 		# Print out a
 		print(a)
