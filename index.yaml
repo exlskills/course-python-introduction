@@ -12,7 +12,9 @@ topics:
   - Computer Science
   - Data Science
 headline: Learn basic Python programming with EXLskills!
-description: This is the EXLskills free and open-source Python Introduction Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Python, to a moderate level of essential coding proficiency.
+description: |2
+  This is the EXLskills free and open-source Python Introduction Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Python, to a moderate level of essential coding proficiency.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lFM_rrxk5qY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 info_md: |2
   # EXLskills Python Introduction Course
   This is the EXLskills free and open-source Python Introduction Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Python, to a moderate level of essential coding proficiency.
@@ -21,4 +23,3 @@ instructor_timekit:
     - credits: 5
       duration_seconds: 1800
       project_id: 30499d7f-e90b-4edb-89b2-ea00d3d9b0c7
-
