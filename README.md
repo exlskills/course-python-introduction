@@ -28,8 +28,3 @@ The format for this course is as follows:
   - Exam
 
 6. Final Exam
-
-
-**Final Exam still need to be written**
-
-**Live Coding exercise still need to be implemented**
