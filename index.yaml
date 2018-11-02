@@ -1,9 +1,10 @@
 url_name: intro_to_python
-display_name: Introduction to Python for Data Science
+display_name: Learn Python Essentials for Data Science
 org: EXLskills
 course: intro_to_python
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/course-intro-to-python.jpg
 language: en
+weight: 10000
 est_minutes: 1080
 primary_topic: Python
 repo_url: https://github.com/exlskills/course-python-introduction
