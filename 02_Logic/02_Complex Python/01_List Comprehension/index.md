@@ -12,6 +12,8 @@ lst = []
 # Go through the numbers between 0 and 11
 for i in range(6):
   lst.append(i)
+
+print(lst)
 ```
 
 This will result in array that is equal to `[0,1,2,3,4,5]` **But there is a easier way to do this!**
