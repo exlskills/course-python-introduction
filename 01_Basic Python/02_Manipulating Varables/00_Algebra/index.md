@@ -50,6 +50,6 @@ There are a multitude of other mathematical functions that you can use.
   print('x * y equals: ', x * y)
 
   # Divide x and y and print the result
-  print('x / y = ' x / y)
+  print('x / y = ', x / y)
 
 ```
